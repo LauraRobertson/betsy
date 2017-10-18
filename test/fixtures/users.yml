@@ -5,5 +5,5 @@ one:
   email: MyString
 
 two:
-  username: MyString
-  email: MyString
+  username: MyString2
+  email: MyString2

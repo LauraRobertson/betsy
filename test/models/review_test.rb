@@ -6,4 +6,8 @@ describe Review do
   it "must be valid" do
     value(review).must_be :valid?
   end
+
+  it "must be present" do
+    
+  end
 end
