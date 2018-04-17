@@ -1,7 +1,5 @@
 # bEtsy
-[b]Etsy will be an online store where a wide variety of products can be listed and sold by any user. In this project we will focus on reinforcing the major components of Rails, Model Validation, as well as introducing some more complex logic such as user authentication.
-
-This is a [Stage 3](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md) project requiring you to expand upon what you have learned in class.
+[b]Etsy will be an online store where a wide variety of products can be listed and sold by any user. Focus on reinforcing the major components of Rails, Model Validation, as well as introducing some more complex logic such as user authentication.
 
 ## Project Learning Goals
 - Core comprehension of:
@@ -14,29 +12,6 @@ This is a [Stage 3](https://github.com/Ada-Developers-Academy/pedagogy/blob/mast
 - Agile practices
 - Feature branch management with Git
 - Group project ownership
-
-## Guidelines
-- Groups of three or four will collaborate in pairs or individually and will report to their assigned Project Manager (one of the instructors)
-- Use a task manager like [Trello](http://trello.com) to track your team's efforts
-- Build a logical user-flow that moves across multiple controllers and models
-- Use HTML/CSS and Foundation to style your website
-
-## Getting Started
-1. As a group decide on an app name (this may help lead the aesthetic)
-1. As a group decide on a team name (this will amuse your instructors)
-1. Have one person on your team fork/clone the project master as per usual
-  1. Create a new rails app using `rails new .`
-  1. Add all other team members as collaborators
-  1. Each team member should clone the repo to their computer
-1. Figure out your workflow for the project, re: Git and Task management
-  1. Do you want to use git branches? Pull requests?
-  1. Determine who will be the Stand Up Leader and Task Leader for the first week
-1. Create a Trello board and ensure that all team members and instructors have access
-1. Review the User Stories below and create Trello tasks to represent them
-1. Slack your team name, app name, and link to your trello board to your Project Manager
-
-## Expectations
-Build an online system for listing, selling, reviewing, and buying a wide variety of products listed by multiple merchants.
 
 ### General Requirements
 - Unit tests and/or specs for
@@ -159,40 +134,3 @@ Many of our models will have attributes that are required for our application to
 - Rating must be present
 - Rating must be an integer
 - Rating must be between 1 and 5
-
-## Submission Guidelines
-Your final project must be deployed to [Heroku](http://heroku.com). Your team will open a single pull request for the entire project. There are comprehension  questions to answer with your submission that you should complete together as a group. Remember, you can submit a PR and still make some final changes to your code, so don't wait until the last minute.
-
-## Team Leaders
-Each team will have team leaders who are responsible for keeping track of each team member's contributions. Rotate leader roles at the beginning of the second week; every team member should be in at least one leader role during the project.
-
-- **Stand Up Leader**
-  - Notifies team members about meeting schedule and ensures that everyone is present and ready
-  - Takes notes about each person's daily report in Stand Up
-  - Keeps the meeting moving
-- **Task Leader**
-  - Leads discussion on task assignment
-    - Decide if a task should be completed alone or in a pair
-    - Assign tasks based on...
-      - Individual comfort
-      - Desire
-      - Ability
-  - Ensures the task list stays up to date
-
-## Stand Up Meetings
-The Stand Up Leader should determine the daily time for your stand up meeting with the team. Once you come up with a time, confirm with your PM that this time will work for them.
-
-At the end of each day, your team's assigned Project Manager will review the Trello board to ensure it captures the updates that your team has made throughout the day.
-
-## Interim Demo
-In a real world work environment, a team's success is measured by their product as opposed to each individual's contribution.
-
-Each team will present their progress and respond to questions from their Project Manager on the first Friday. Every team member will participate in these demos; the PM will ask specific questions regarding
-1. The team's progress and plan for completing the project
-1. The technical decisions and implementation
-1. Every team member's understanding of the underlying technical structures
-
-## Final Presentation
-Each team will present their product in a final presentation to the group on the final Friday. Your presentation should be no more than 7 minutes. The presentation should include every team member and:
-- what you learned as individuals and as a group
-- a short story-driven demo of interesting features
